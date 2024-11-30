@@ -1,0 +1,6 @@
+C:\Users\Hp\OneDrive - Higher Education Commission\Desktop\New folder\HELP-1\HELP-1\x64\Debug\HELP-1.vcxproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive - Higher Education Commission\Desktop\New folder\HELP-1\HELP-1\x64\Debug\HELP_1.Form1.resources
+C:\Users\Hp\OneDrive - Higher Education Commission\Desktop\New folder\HELP-1\HELP-1\x64\Debug\HELP-1.vcxproj.GenerateResource.cache
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\x64\Debug\HELP-1.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\x64\Debug\HELP_1.Form1.resources
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\x64\Debug\HELP-1.vcxproj.GenerateResource.cache

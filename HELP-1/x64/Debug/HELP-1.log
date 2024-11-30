@@ -1,0 +1,37 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(492,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(493,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(494,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(495,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(496,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(497,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(498,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(499,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(266,20): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\HELP-1\Form1.h(266,20): message : see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'CppCLRWinFormsProject::Form1::button1_Click'
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HELP-1.vcxproj -> C:\Users\Hp\Downloads\2023462_Prj\2023462_Prj\2023462_Prj\x64\Debug\HELP-1.exe
